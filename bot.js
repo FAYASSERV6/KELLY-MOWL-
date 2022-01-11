@@ -8,9 +8,9 @@ Explore
 @richusir 
 richusir
 /
-RICHUSER_B1
+KELLY-MOWL-
 Public
-forked from richusir/RICHUSER_B1
+forked from fayasserv6/KELLY-MOWL-
 0
 1121
 Code
@@ -164,7 +164,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
         });
 
         console.log(
-            chalk.green.bold('Richuser working perfectly 💘')
+            chalk.green.bold('KELLYMOWL working perfectly 💘')
         );
     });
     
@@ -276,7 +276,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, 'RICHUSERBOT_🐱_[error] ' +
+                                await conn.sendMessage(conn.user.jid, 'KELLYMOWL_🐱_[error] ' +
                                     '\n\n*👻 ' + error + '*\n'
                                     , MessageType.text);
                             }
